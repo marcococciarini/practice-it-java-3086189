@@ -13,6 +13,7 @@ public class EnhancedForLoops {
     }
 
     List<String> weekDays = Arrays.asList("Monday", "Tuesday", "Wednesday", "Thursday", "Friday");
+    
     // Write an enhanced for loop to print out each week day in the list.
     for (String weekDay : weekDays) {
       System.out.println(weekDay);
